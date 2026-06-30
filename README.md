@@ -176,6 +176,9 @@ A system built in python which checks whether the citation provided is valid and
 <a href="https://github.com/BeastBoom?achievement=yolo&tab=achievements" target="_blank">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" width="100" alt="YOLO" />
 </a>
+<a href="https://github.com/BeastBoom?achievement=quickdraw&tab=achievements" target="_blank">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png" width="100" alt="QUICKDRAW" />
+</a>
 </div>
  
 <br/>
